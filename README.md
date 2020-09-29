@@ -4,9 +4,7 @@
 **MubeenAhmad571/MubeenAhmad571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-### I'm a Developer and Researcher!
- 🔭 I’m currently working on a AI Research, Applied AI and Cloud Computing!
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I'm a Developer and Researcher!
+- 🔭 I’m currently working on a AI Research, Applied AI and Cloud Computing!
+- 🌱 I’m currently learning Cyber Security
+- 🥅 2020 Goals: Contribute more to Open Source projects
+
+### Connect with me:
+
+ 
+[<img align="left" alt="mubeen-ahmad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mubeen-ahmad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mubeen-ahmad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
