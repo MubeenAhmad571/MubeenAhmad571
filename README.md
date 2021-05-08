@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 <br>
 ### GitHub Analytics
-![Sohaib's github stats](https://github-readme-stats.vercel.app/api?username=MubeenAhmad571&count_private=true&show_icons=true)
+
+![Mubeen github stats](https://github-readme-stats.vercel.app/api?username=MubeenAhmad571&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MubeenAhmad571&layout=compact&langs_count=10)
 <br>
 
