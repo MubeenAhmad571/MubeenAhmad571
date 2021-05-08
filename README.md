@@ -28,20 +28,24 @@ Here are some ideas to get you started:
 <img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 
+<br>
 
 
+### GitHub Analytics
+<br>
 
+![Mubeen github stats](https://github-readme-stats.vercel.app/api?username=MubeenAhmad571&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MubeenAhmad571&layout=compact&langs_count=12)
 ### Connect with me:
+<br>
 
  
 [<img align="left" alt="mubeen-ahmad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/MubeenAhmad571)
 [<img align="left" alt="mubeen-ahmad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mubeen-ahmad-8a7019195/)
 [<img align="left" alt="mubeen-ahmad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/mubeenahmad571/?hl=en)
 
-<br />
-### GitHub Analytics
+<br>
 
-![Mubeen github stats](https://github-readme-stats.vercel.app/api?username=MubeenAhmad571&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MubeenAhmad571&layout=compact&langs_count=10)
 
-<br />
+
+
