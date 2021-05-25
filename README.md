@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a AI Research, Applied AI and Cloud Computing!
 - 🌱 I’m currently learning Cloud Computing
 - 🥅 2021 Goals: Contribute more to Open Source projects
+- - 😄 Pronouns: Mobi
 
 ### Languages and Tools:
 
