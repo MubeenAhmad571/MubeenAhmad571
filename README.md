@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br>
 
 ![Mubeen github stats](https://github-readme-stats.vercel.app/api?username=MubeenAhmad571&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MubeenAhmad571&layout=compact&langs_count=12)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MubeenAhmad571&layout=compact&langs_count=16)
 ### Connect with me:
 <br>
 
