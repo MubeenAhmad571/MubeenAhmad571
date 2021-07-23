@@ -1,59 +1,30 @@
-### Hi there, I'm Mubeen 👋
+ <h1 align="center">Hi 👋, I'm Mubeen Ahmad</h1>
+<h3 align="center">A passionate Web developer from Pakistan</h3>
 
-<!--
-**MubeenAhmad571/MubeenAhmad571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mubeenahmad571&label=Profile%20views&color=0e75b6&style=flat" alt="mubeenahmad571" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubeenahmad571" alt="mubeenahmad571" /></a> </p>
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### I'm a Developer and Researcher!
-- 🔭 I’m currently working on a AI Research, Applied AI and Cloud Computing!
-- 🌱 I’m currently learning Cloud Computing
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- 😄 Pronouns: Mobi
+<p align="left"> <a href="https://twitter.com/mubeenahmad571" target="blank"><img src="https://img.shields.io/twitter/follow/mubeenahmad571?logo=twitter&style=for-the-badge" alt="mubeenahmad571" /></a> </p>
 
-### Languages and Tools:
+- 🔭 I’m currently working on **Final Year Project**
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
- <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
- <img align="left" alt="ajax" width="40px" src="https://miro.medium.com/max/800/1*BBYoIy6qy2jmBtOMJx7Ndw.png" />
- <img align="left" alt="Python" width="30px" src="https://www.pngitem.com/pimgs/m/31-312064_programming-icon-png-python-logo-512-transparent-png.png" />
- 
-<img align="left" alt="C++" width="30px" src="https://freepngimg.com/thumb/c++/2-2-c++-png-clipart.png" />
-<img align="left" alt="C++" width="30px" src="https://brandslogos.com/wp-content/uploads/thumbs/php-logo-vector.svg" />
-<img align="left" alt="Java" width="30px" src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg" /> 
-<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MySQL" width="30px" src="https://i.pinimg.com/originals/95/b7/e1/95b7e17b5161175de4fe88b1b2602236.png" />
+- 🌱 I’m currently learning **Cloud Computing**
 
+- 📫 How to reach me **mubeenahmad571@gmail.com**
 
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mubeenahmad571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mubeenahmad571" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mubeenahmad571" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mubeenahmad571" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-### GitHub Analytics
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mubeenahmad571&show_icons=true&locale=en&layout=compact&langs_count=10" alt="mubeenahmad571" /></p>
 
-![Mubeen github stats](https://github-readme-stats.vercel.app/api?username=MubeenAhmad571&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MubeenAhmad571&layout=compact&langs_count=12)
-### Connect with me:
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mubeenahmad571&show_icons=true&locale=en" alt="mubeenahmad571" /></p>
 
- 
-[<img align="left" alt="mubeen-ahmad | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/MubeenAhmad571)
-[<img align="left" alt="mubeen-ahmad | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mubeen-ahmad-8a7019195/)
-[<img align="left" alt="mubeen-ahmad | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/mubeenahmad571/?hl=en)
-[<img align="left" alt="mubeen-ahmad | Instagram" width="22px" src="https://developers.google.com/site-assets/images/home/google_developers_logo.png" />](https://developers.google.com/profile/u/105394491429828913065?hl=en)
-
-<br>
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mubeenahmad571&" alt="mubeenahmad571" /></p>
 
