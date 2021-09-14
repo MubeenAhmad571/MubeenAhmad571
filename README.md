@@ -21,7 +21,7 @@
 - 💡 A young tech enthusiastic who loves to develop things.
 - 💻 Frontend Developer At ERSTECH.
 - ✏️ Education: BSCS from Superior University Lahore - 2017 ~ 2021
-- 🔭 I’m currently working on **Whisper*
+- 🔭 I’m currently working on **Whisper**
 
 - 🌱 I’m currently learning **React**
 
