@@ -11,12 +11,7 @@
  </a>
 </p>
 <hr>
-<p align="center"> 
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=mubeenahmad571" alt="mubeenahmad571" />
- </a> 
-</p>
-<hr>
+ 
 
 - 💡 A young tech enthusiastic who loves to develop things.
 - 💻 Frontend Developer At ERSTECH.
