@@ -14,12 +14,9 @@
  
 
 - 💡 A young tech enthusiastic who loves to develop things.
-- 💻 Frontend Developer At ERSTECH.
+- 💻 Software Engineer At ERSTECH.
 - ✏️ Education: BSCS from Superior University Lahore - 2017 ~ 2021
-- 🔭 I’m currently working on **Whisper**
-
 - 🌱 I’m currently learning **React**
-
 - 📫 You can reach me <a href="mailto: mubeenahmad571@hmail.com">mubeenahmad571@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
