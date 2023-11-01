@@ -14,7 +14,7 @@
  
 
 - 💡 A young tech enthusiastic who loves to develop things.
-- 💻 Shopify Developer At Epinovus by Alchemative.
+- 💻 Shopify Developer at Alchemative.
 - ✏️ Education: BSCS from Superior University Lahore - 2017 ~ 2021
 - 🌱 I’m currently learning **React**
 - 📫 You can reach me <a href="mailto: mubeenahmad571@hmail.com">mubeenahmad571@gmail.com</a>
